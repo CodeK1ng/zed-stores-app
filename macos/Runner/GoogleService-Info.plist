@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAMa5T2putcyLoIS48ZsqR3FDn6eVdJt-Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227015986946</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zedStores.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>zed-stores</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zed-stores.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227015986946:ios:b4de34e3013e1b03be3c1b</string>
+</dict>
+</plist>

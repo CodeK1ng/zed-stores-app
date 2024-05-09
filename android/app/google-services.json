@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227015986946",
+    "project_id": "zed-stores",
+    "storage_bucket": "zed-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227015986946:android:4132aa68678277e7be3c1b",
+        "android_client_info": {
+          "package_name": "com.example.zed_stores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5gqajOHZAPKDpuDK4_44_FtfDMp6qG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
